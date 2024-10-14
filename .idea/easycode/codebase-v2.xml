@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/rechnen_in_python.py;S:/py/SchulAufgaben/verzweigung_und_schleifen.py" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;S:/py/SchulAufgaben&quot;:&quot;{\&quot;/rechnen_in_python.py\&quot;:\&quot;\&quot;,\&quot;/verzweigung_und_schleifen.py\&quot;:\&quot;\\ndef Aufgabe_2_1():\\r\\nfgabe_2_2():\\r\\nfgabe_2_3():\\r\\n    Binary():\\r\&quot;}&quot;}" />
+    <option name="fileSkeletonMaps" value="{&quot;S:/py/SchulAufgaben&quot;:&quot;{\&quot;/rechnen_in_python.py\&quot;:{\&quot;file_path\&quot;:\&quot;/rechnen_in_python.py\&quot;,\&quot;file_name\&quot;:\&quot;rechnen_in_python.py\&quot;,\&quot;methods\&quot;:[]},\&quot;/verzweigung_und_schleifen.py\&quot;:{\&quot;file_path\&quot;:\&quot;/verzweigung_und_schleifen.py\&quot;,\&quot;file_name\&quot;:\&quot;verzweigung_und_schleifen.py\&quot;,\&quot;methods\&quot;:[]}}&quot;}" />
+  </component>
+</project>
