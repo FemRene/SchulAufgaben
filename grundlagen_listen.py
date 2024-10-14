@@ -103,10 +103,10 @@ def Users():
 
 
 action = input("Select a what would you do:\n"
-                   "1)  Play Lotto\n"
-                   "2)  Check for Palindrome\n"
-                   "3)  Usermanager\n"
-                   "(1-3): ")
+               "1)  Play Lotto\n"
+               "2)  Check for Palindrome\n"
+               "3)  Usermanager\n"
+               "(1-3): ")
 match action:
     case "1":
         Lotto()

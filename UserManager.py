@@ -62,7 +62,7 @@ def deleteUserByID(id: int):
     return exe
 
 
-def deleteUserByName(name: int):
+def deleteUserByName(name: str):
     exe: bool = False
     conn = sqlite3.connect("users.sql")
     c = conn.cursor()
